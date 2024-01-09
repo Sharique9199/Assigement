@@ -20,6 +20,9 @@ header{
     position: relative;
 
 }
+.menu_bar_icon{
+    display: none;
+}
 .navlist{
     width: 100%;
     display: flex;
